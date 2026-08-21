@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brainhero.kai7.app/sitemap.xml
