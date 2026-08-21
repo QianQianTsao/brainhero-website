@@ -25,6 +25,7 @@ img{max-width:100%;height:auto;display:block}
 .hamburger{display:none;flex-direction:column;gap:5px;background:none;border:none;padding:6px}
 .hamburger span{width:22px;height:2.5px;background:#12123a;border-radius:2px;display:block}
 .mobile-menu{padding:12px 4% 16px;border-top:1px solid #efeff6;background:#fff;display:flex;flex-direction:column;gap:12px}
+.mobile-menu[hidden]{display:none !important}
 .mobile-menu a{font-weight:600}
 /* HERO */
 .hero{background:linear-gradient(180deg,#FFF7F0 0%,#FFEDE0 45%,#fff 100%);padding:28px 0 24px;overflow:hidden}
