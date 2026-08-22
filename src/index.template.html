@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <title>{{pageTitle}}</title>
+  <title>{{seoTitle}}</title>
   <meta name="description" content="{{metaDescription}}">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="theme-color" content="#f8fbff">
@@ -15,7 +15,7 @@
   <meta property="og:type" content="website">
   <meta property="og:locale" content="{{ogLocale}}">
   <meta property="og:site_name" content="{{brandName}}">
-  <meta property="og:title" content="{{pageTitle}}">
+  <meta property="og:title" content="{{seoTitle}}">
   <meta property="og:description" content="{{ogDescription}}">
   <meta property="og:url" content="{{canonicalUrl}}">
   <meta property="og:image" content="https://brainhero.app/assets/og-brainhero.jpg">
@@ -25,14 +25,15 @@
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="{{ogImageAlt}}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{pageTitle}}">
+  <meta name="twitter:title" content="{{seoTitle}}">
   <meta name="twitter:description" content="{{ogDescription}}">
   <meta name="twitter:image" content="https://brainhero.app/assets/og-brainhero.jpg">
   <meta name="twitter:image:alt" content="{{ogImageAlt}}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;family=Sora:wght@600;700;800&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{assetPrefix}}/css/styles.css">
+  <script src="{{assetPrefix}}/js/main.js" defer></script>
   <script type="application/ld+json">
 {{structuredData}}
   </script>
@@ -41,7 +42,7 @@
   <a class="skip-link" href="#main">{{skipToContent}}</a>
   <header class="site-header">
     <div class="shell header-inner">
-      <a class="brand" href="{{homePath}}#main" aria-label="{{homeLabel}}">
+      <a class="brand" href="{{canonicalUrl}}#main" data-file-href="{{homePath}}#main" aria-label="{{homeLabel}}">
         <img src="{{assetPrefix}}/assets/generated/nori-hero-cutout.png" alt="" width="74" height="80">
         <span class="brand-copy"><strong>{{brandName}}</strong><span>{{brandTagline}}</span></span>
       </a>
@@ -89,8 +90,8 @@
       <div class="shell answers-inner">
         <div class="answers-heading">
           <p class="answers-kicker">{{quickAnswers}}</p>
-          <h2 id="answers-title">{{answersTitle}}</h2>
-          <p>{{answersIntro}}</p>
+          <h2 id="answers-title">{{seoHeading}}</h2>
+          <p>{{ogDescription}}</p>
         </div>
         <div class="answer-grid">
 {{faqCards}}

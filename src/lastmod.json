@@ -1,0 +1,162 @@
+{
+  "en": {
+    "hash": "fb2f3a6e2b69c22ee06dc7dedc0588819a40ab024788c3582800e26d0bd601fc",
+    "lastmod": "2026-08-22"
+  },
+  "ar": {
+    "hash": "f3c4c6230f4436b13c4f42e01d7db41ce4ef164e0dc8a3cf8384de7880a9f15c",
+    "lastmod": "2026-08-22"
+  },
+  "ca": {
+    "hash": "1bab1fd1f7122c844ff0a7604d658221c8f285bef34bd1353e8a7b4dfab46bf4",
+    "lastmod": "2026-08-22"
+  },
+  "zh-HK": {
+    "hash": "21b8546077078959a4a6f4fa95c63b5c7069a32e873e87b646a2f96115853861",
+    "lastmod": "2026-08-22"
+  },
+  "zh-Hans": {
+    "hash": "7835cc44f6dc3d96a9773fc533923b91535a4f2f0e146644083613aa5427c8fb",
+    "lastmod": "2026-08-22"
+  },
+  "zh-Hant": {
+    "hash": "caf3689628f429034f39fe0b859109a73cf59565f436029d7d582091b47061d8",
+    "lastmod": "2026-08-22"
+  },
+  "hr": {
+    "hash": "20cddba169e9ab6c055af0ffade7e4b7bb671576dab3769412be9b52f7835225",
+    "lastmod": "2026-08-22"
+  },
+  "cs": {
+    "hash": "1f40ea1ecaf75181da6658a6045cc69839cc5d4c4e24682b779bdb923e4a0007",
+    "lastmod": "2026-08-22"
+  },
+  "da": {
+    "hash": "384f8fb1b6eede4df1b5c0b7f791f84c8aa1200ee3aea64ced43394bc1cf7498",
+    "lastmod": "2026-08-22"
+  },
+  "nl": {
+    "hash": "dcbbc9d7620c3f3ea24f9cd8117de0b8a9c3ef36412079acec2bb5179661212d",
+    "lastmod": "2026-08-22"
+  },
+  "fi": {
+    "hash": "0c40b420e20d0adbf3e50e98ad96c4b3d4f76f98e75fdeae242e090e1803c037",
+    "lastmod": "2026-08-22"
+  },
+  "fr": {
+    "hash": "f823b96a4b0dcd1ccf4d4694112b0a1bf1db304cc79080bc0ea3105c4a6dffce",
+    "lastmod": "2026-08-22"
+  },
+  "fr-CA": {
+    "hash": "8fc8d6af9075ab4f4e1ae9b4c5eedb60601c28ad960a2af78e8fe39535e7b73e",
+    "lastmod": "2026-08-22"
+  },
+  "de": {
+    "hash": "766fc6c9f630e1bc07a0280e21011b1ae9e09f2f19ea899579139ab887b48469",
+    "lastmod": "2026-08-22"
+  },
+  "el": {
+    "hash": "eadf984b4e6eeb7e23c4462a5e838ac364ab0a5cde39f996f2787cfaf1aea82c",
+    "lastmod": "2026-08-22"
+  },
+  "he": {
+    "hash": "6ec575b680843a4e20cc651fe66b56222f598023591f6be4e85bf4d27b3b17e2",
+    "lastmod": "2026-08-22"
+  },
+  "hi": {
+    "hash": "c2e1da33291af597aa0148c426ecdd5616a7c7100121244cf0f9f89a068f7397",
+    "lastmod": "2026-08-22"
+  },
+  "hu": {
+    "hash": "8a46b4e7676cf7f0af54480d4e26388d2b827f8fbc9247f83e6fa729c8349bac",
+    "lastmod": "2026-08-22"
+  },
+  "id": {
+    "hash": "454e7a907f3f7998091fec7beed2bfda6469143dff48a6b0247d7c2452619696",
+    "lastmod": "2026-08-22"
+  },
+  "it": {
+    "hash": "749f234a6bd80f21dcc9b470599663542aa57916141382526d63c90ba130e0d0",
+    "lastmod": "2026-08-22"
+  },
+  "ja": {
+    "hash": "9bec71d8270f7d458dbd703e889c0cb3ced5d7bb4a8a80fb15be2a241d500643",
+    "lastmod": "2026-08-22"
+  },
+  "ko": {
+    "hash": "ad6cc1c1d5848d8db81b15dd7296cee4d40660dffe5b646f77dc25830cf5869e",
+    "lastmod": "2026-08-22"
+  },
+  "lt": {
+    "hash": "cfbab0df9bf9b168530bbcb012d98a14dadab07e4da48178c8297605b2a91048",
+    "lastmod": "2026-08-22"
+  },
+  "ms": {
+    "hash": "6d2a4683e6ef486a3d6f19bcac6c977d297cbeed3edbc704be706eda50ba81f5",
+    "lastmod": "2026-08-22"
+  },
+  "nb": {
+    "hash": "c8f5301e7e9eed4ae01ebd1b389558465f3c987cd4b3bfd2b401d1ee41ee0fc7",
+    "lastmod": "2026-08-22"
+  },
+  "pl": {
+    "hash": "fe160392d55efd3573556b141a9d99f2302be691711cb7bc01955d678156b077",
+    "lastmod": "2026-08-22"
+  },
+  "pt-BR": {
+    "hash": "5ef19a3430a9e88f099c29030073c15f50fc20ca4b6dab9c76c5ce1383273ce7",
+    "lastmod": "2026-08-22"
+  },
+  "pt-PT": {
+    "hash": "e8447fef128ae2b59a90d44b0d79f1ab6cd4da98e7368ebf06b2260245cb6fa1",
+    "lastmod": "2026-08-22"
+  },
+  "ro": {
+    "hash": "fc5d3c1ef026e508a419b6e3311400d0a27a141fd458528b6df69b1b9cdb7317",
+    "lastmod": "2026-08-22"
+  },
+  "ru": {
+    "hash": "651fbaef871c7f231ff4ed605f2e4d143d6bfa5ae1965c742012cb1832d4b816",
+    "lastmod": "2026-08-22"
+  },
+  "sk": {
+    "hash": "af3b46e7d9475a323a4402c854cd3559027949d6080f5ba45d480490050f45e2",
+    "lastmod": "2026-08-22"
+  },
+  "sl": {
+    "hash": "d8218256d3876ba28ace51ce764fc588ec9a917e438ecff2c22a83f0de4d3f10",
+    "lastmod": "2026-08-22"
+  },
+  "es": {
+    "hash": "fa48ed758331b05ea4d02b9bd8183ad1ccb16488ea77e12edc6c10d119b12f68",
+    "lastmod": "2026-08-22"
+  },
+  "es-419": {
+    "hash": "626bedd2288f04aed74af9505fd0889156aad7ea0ea7294b6a82e7558dc655dd",
+    "lastmod": "2026-08-22"
+  },
+  "es-US": {
+    "hash": "4ced6b5126f6b2224f47139b16a0bd9882a8de63f740be47348bd8a5fe289d50",
+    "lastmod": "2026-08-22"
+  },
+  "sv": {
+    "hash": "56156ecc5d2e657f42d9df6c846ea303e98b78aa4856b2d63589b2757cd32596",
+    "lastmod": "2026-08-22"
+  },
+  "th": {
+    "hash": "0148344e45e8d12ea70c8d6ed2509502a17ae754a6137896695d88dec4e2fb00",
+    "lastmod": "2026-08-22"
+  },
+  "tr": {
+    "hash": "e6d0c8dab78daa4dbf8263816efc7d9eafb9f93b80e7cf1eda6b46b8d07549f3",
+    "lastmod": "2026-08-22"
+  },
+  "uk": {
+    "hash": "e01803b6dd1aa2d7ee25a08c12bb59fff47e67f1b74fde2cb9ce4e6435f00211",
+    "lastmod": "2026-08-22"
+  },
+  "vi": {
+    "hash": "7a04097265dce1467bc7dc4d1fede4418bd5a437b6d76cb7ca1197f78d04b90c",
+    "lastmod": "2026-08-22"
+  }
+}

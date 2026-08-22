@@ -1,3 +1,8 @@
+if(location.protocol==='file:'){
+  document.querySelectorAll('[data-file-href]').forEach(link=>{
+    link.setAttribute('href',link.dataset.fileHref);
+  });
+}
 document.querySelector('.hamburger')?.addEventListener('click',e=>{
   const m=document.querySelector('.mobile-menu');
   const b=e.currentTarget;
